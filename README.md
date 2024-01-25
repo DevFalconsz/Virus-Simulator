@@ -33,6 +33,12 @@ The "Virus Simulator 1.0" was developed using C++ with the SFML library, leverag
 
 ![Prompt](https://i.imgur.com/Ih2jrIn.png)
 
+### SFML (Graphics):
+
 ![Graphics](https://i.imgur.com/P85vSCc.png)
 
-To access the source code and contribute, visit the [GitHub repository](https://github.com/DevFalconsz/Virus-Simulator/tree/main/Projeto%20-%20virus).
+### SDL2 (Graphics):
+
+![Graphics](https://i.imgur.com/mBJuCrL.png)
+
+To access the source code and contribute, visit the [GitHub repository](https://github.com/DevFalconsz/Virus-Simulator/tree/simulator/Project%20-%20SDL2).
