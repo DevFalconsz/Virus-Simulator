@@ -23,7 +23,7 @@ Therefore, the presented viral multiplication rates are simplifications aimed at
 ## Technical Specifications:
 
 - **Language:** C++
-- **Graphics Library:** SFML (Simple and Fast Multimedia Library)
+- **Graphics Library:** SFML (Simple and Fast Multimedia Library) or SDL2 (Simple DirectMedia Layer)
 
 ## Creation Process:
 
