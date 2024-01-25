@@ -27,7 +27,9 @@ Therefore, the presented viral multiplication rates are simplifications aimed at
 
 ## Creation Process:
 
-The "Virus Simulator 1.0" was developed using C++ with the SFML library, leveraging its capabilities for graphics rendering in a Windows environment. The creation process involved designing an interactive interface for users to select and observe the viral simulation. The program's logic includes calculations for viral multiplication rates, providing a visual representation. The project aimed to balance simplicity with accuracy, acknowledging the complexity of real-world viral replication dynamics. The choice of SFML facilitated the creation of an engaging and visually informative simulation.
+The "Virus Simulator 1.0" was initially developed using C++ with the SFML library, taking advantage of its features for graphics rendering within a Windows environment. The development process included the design of an interactive interface, allowing users to select and observe the viral simulation. The program's logic incorporated calculations for viral multiplication rates, presenting a visual representation of the simulation dynamics. The project aimed to strike a balance between simplicity and accuracy, considering the intricate nature of real-world viral replication.
+
+However, after the initial completion of version 1.0, the decision was made to transition to the SDL2 library. This change was prompted by challenges encountered in ensuring the proper functioning of the main executable file on different machines. The shift to SDL2 provided a more robust solution, addressing the issues and enhancing the portability of the application. This adjustment reflects the project's commitment to optimizing performance and compatibility, ultimately delivering a seamless and efficient user experience in the updated version.
 
 ## Images:
 
